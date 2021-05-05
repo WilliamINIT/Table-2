@@ -1,3 +1,6 @@
+body { font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
 .unordered { list-style-type: square;
     line-height: 170%; 
     background: #FDEBD0;
